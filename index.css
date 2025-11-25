@@ -1,0 +1,71 @@
+*{background-color: lightblue ;}
+
+#ID0{
+    h1{text-align: center;}
+    h1{font-size: xx-large;}
+    h1{font-family: sans-serif;}
+    h1{background-color: darkblue;}
+    h1{color:orange}
+}
+
+
+
+
+#List{
+    li{font-size: large;}
+    li{font-family: sans-serif;}
+    li{margin-bottom: 10px;}
+    li{color: orange ;}
+}
+
+.class1{
+    h1{text-align: center;}
+    p{font-size: medium;}
+    p{text-align:center ;}
+    img{display: block; margin-left: auto; margin-right: auto;}
+    h1{font-size: xx-large;}
+    h1,p{font-family: sans-serif;}
+    h1{background-color: orange;}
+    h1{color:darkblue}
+}
+#ID3{
+     h1{text-align: center;}
+    p{font-size: medium;}
+    p{text-align:left ;}
+    p{text-align: center;}
+    h3{text-align: center;}
+    h1{font-size: xx-large;}
+    h1,p,h3{font-family: sans-serif;}
+    h1{background-color: orange;}
+    h1{color:darkblue}
+}
+#ID4{
+     h1{text-align: center;}
+    p{font-size: medium;}
+    p{text-align:left ;}
+    p{text-align: center;}
+    h3{text-align: center;}
+    h1{font-size: xx-large;}
+    h1,p,h3{font-family: sans-serif;}
+    h1{background-color: orange;}
+    h1{color:darkblue}
+}
+#ID5{
+     h1{text-align: center;}
+    p{font-size: medium;}
+    p{text-align:left ;}
+    p{text-align: center;}
+    h3{text-align: center;}
+    h1{font-size: xx-large;}
+    h1,p,h3{font-family: sans-serif;}
+    h1{background-color: orange;}
+    h1{color:darkblue}
+}
+
+#Map{
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
