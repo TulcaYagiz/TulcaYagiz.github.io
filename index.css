@@ -1,5 +1,11 @@
-*{background-color: lightblue ;}
 
+
+body{
+     background-color: lightblue ;
+     margin: 0; 
+     padding: 0;
+     font-family: sans-serif;
+}
 #ID0{
     h1{text-align: center;}
     h1{font-size: xx-large;}
@@ -15,7 +21,7 @@ section {
     max-width: 800px;    
     margin: 0 auto 40px auto; 
     padding: 20px;       
-    background-color: rgba(255, 255, 255, 0.5); 
+    background-color: lightblue; 
     border-radius: 10px;
 }
 
@@ -81,3 +87,4 @@ section {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
