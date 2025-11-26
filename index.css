@@ -1,5 +1,4 @@
 
-
 body{
      background-color: lightblue ;
      margin: 0; 
@@ -32,9 +31,26 @@ section {
     li{color: orange ;}
     list-style-type: none; 
     text-align: center;
-    padding: 0;
     li{list-style-type: none}
+    }
+#List ul{
+    display: flex;          
+    justify-content: center; 
+    gap: 20px;               
+    list-style: none;       
+    padding: 0;              
+    margin: 0;
 }
+#List li a {
+    text-decoration: none;      
+    background-color: darkblue; 
+    color: orange;              
+    padding: 12px 25px;        
+    border-radius: 25px;        
+    font-weight: bold;         
+    font-family: sans-serif;
+}
+
 
 .class1{
     h1{text-align: center;}
@@ -87,4 +103,3 @@ section {
     margin-top: 20px;
     margin-bottom: 20px;
 }
-
